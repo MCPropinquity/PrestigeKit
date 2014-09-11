@@ -1,0 +1,10 @@
+name: PrestigeKit
+main: me.nortonw.PrestigeKit.PrestigeKit
+version: 7.0
+website: http://rCraft.eu
+author: recon88
+description: >
+        Gives kits to your players
+commands:
+  kit:
+    description: Show a list of kit names or get a named kit
